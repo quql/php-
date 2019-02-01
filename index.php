@@ -4,7 +4,7 @@ const APP_ID = '14486893';
 const API_KEY = 'mMfhh8WgHPpNKbQk8Ufg4sWc';
 const SECRET_KEY = '22S21FXIaQfMTFICsgoSKxF1eqGavPsg ';
 session_start();
-$filename = 'audio.wav';
+$filename = 'audio.mp3';
 if(empty($_SESSION['post'])){
 	// ob_flush();
  //    flush();
